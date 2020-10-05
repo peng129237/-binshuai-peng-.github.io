@@ -1,37 +1,38 @@
 ## 彭斌帅
 
-点击这里，你可以访问到我无趣的微博[新浪微博](https://weibo.com/7510603225/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1) 
+彭斌帅，男.2002年2月9日生，出生于中国云南省大理州，现就读于北京大学公共卫生学院。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 个人经历
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# 2008年-2014年
+就读于大理州祥云县一所乡村小学
+## 2014年-2017年
+于大理州祥云县一所普通私立学校完成初中学业
+### 2017年-2019年
+前往江西省抚州市临川一中寄读两年，期间浑浑噩噩，以游戏度日
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+#### 感情经历
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/peng129237/-binshuai-peng-.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+至今单身。从未尝过爱情的苦，在线求女朋友
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##### 个人成就
+
+没有，连奖状都没有拿过，别问，问就是玩泥巴长大的
+
+# 其他
+
+本人为网瘾少年，资深熬夜选手，除了吃饭睡觉一无是处，说得一嘴好鬼话，干啥啥不行，学啥啥不会。内心风骚至极情圣再世，外表大型车祸现场，见光死职业选手。社交媒体背后说得一手好骚话，当面瞬间自闭成哑巴。
+
+
+## 想要了解更多可以访问
+
+1.[我的微博](https://weibo.com/7510603225/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1).
+
+2.[我的空间](https://user.qzone.qq.com/1292374014)
